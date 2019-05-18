@@ -15,4 +15,10 @@ object = {
 
 // Objeto pode ter relação de parentesco... como herança
 
+// Manter a abstração mais limpa
 
+// Encapuslamento
+
+// Herança (prototype)
+
+// Polimorfismo
