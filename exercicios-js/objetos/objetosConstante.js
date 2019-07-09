@@ -1,5 +1,5 @@
 // pessoa -> 123 -> {...}
-const pessoa = { nome: 'João' }
+let pessoa = { nome: 'João' }
 pessoa.nome = 'Pedro'
 console.log(pessoa)
 
